@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hi_there/static/css/main.2b355a1a.css",
+    "main.js": "/hi_there/static/js/main.e3a6e863.js",
+    "static/media/suno.mp3": "/hi_there/static/media/suno.2cac485250d7b3a5f04f.mp3",
+    "static/media/night.jpeg": "/hi_there/static/media/night.50166e5aff16e89292ee.jpeg",
+    "index.html": "/hi_there/index.html",
+    "main.2b355a1a.css.map": "/hi_there/static/css/main.2b355a1a.css.map",
+    "main.e3a6e863.js.map": "/hi_there/static/js/main.e3a6e863.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b355a1a.css",
+    "static/js/main.e3a6e863.js"
+  ]
+}
