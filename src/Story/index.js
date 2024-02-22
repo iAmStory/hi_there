@@ -27,7 +27,7 @@ export default function Story({ goto }) {
     // convert text to uppercase
     name = name.toUpperCase();
     window.open(
-      `https://api.whatsapp.com/send?phone=+918791659121&text=Hi,%0A${name} this side. ☺️`
+      `https://api.whatsapp.com/send?phone=+918791659121&text=Hi,%0A${name} this side.`
     );
   };
 
