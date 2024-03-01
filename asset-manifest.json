@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/hi_there/static/css/main.18eec7e9.css",
-    "main.js": "/hi_there/static/js/main.541b4b94.js",
+    "main.css": "/hi_there/static/css/main.b6063f20.css",
+    "main.js": "/hi_there/static/js/main.1562d355.js",
     "static/media/suno.mp3": "/hi_there/static/media/suno.87d5bcc1f4cb4b5c9376.mp3",
-    "static/media/night.jpeg": "/hi_there/static/media/night.50166e5aff16e89292ee.jpeg",
     "index.html": "/hi_there/index.html"
   },
   "entrypoints": [
-    "static/css/main.18eec7e9.css",
-    "static/js/main.541b4b94.js"
+    "static/css/main.b6063f20.css",
+    "static/js/main.1562d355.js"
   ]
 }
