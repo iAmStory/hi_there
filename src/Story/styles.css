@@ -14,9 +14,9 @@
     flex-direction: column;
     background-color: black;
     padding: 40px;
-    background-image: url('./night.jpeg');
+    /* background-image: url('./night.jpeg');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; */
 }
 
 .fade-in-image { animation: fadeIn 5s; }
