@@ -1,5 +1,5 @@
 const kahani = [
-  "I wrote this ❤️",
+  "I made this for you ❤️",
   "Searching for love feels like a one-way street",
   "Lonely nights, where only one voice repeats.",
   "They say it takes two, but where's the other side?",
