@@ -67,7 +67,9 @@ export default function Story({ goto }) {
             onClick={() => {
               mainPlay(true);
               nextPlay(true);
-              setCurrent(current + 1);
+              setTimeout(() => {
+                setCurrent(current + 1);
+              }, 500);
               if (current === kahani.length - 2) {
                 setToggleMusic(true);
               }
