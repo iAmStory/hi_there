@@ -20,14 +20,8 @@ export default function Story({ goto }) {
   }, [toggleMusic]);
 
   const openWhatsapp = () => {
-    // read hash from url
-    const hash = window.location.hash;
-    // hash value is in binary, convert it text
-    let name = atob(hash.replace("#", ""));
-    // convert text to uppercase
-    name = name.toUpperCase();
     window.open(
-      `https://api.whatsapp.com/send?phone=+918791659121&text=Hi,%0A${name} this side.`
+      `https://api.whatsapp.com/send?phone=+918791659121&text=I miss you ❤️`,
     );
   };
 
@@ -74,8 +68,11 @@ export default function Story({ goto }) {
               mainPlay(true);
               nextPlay(true);
               setCurrent(current + 1);
-              if (current === kahani.length - 1) {
+              if (current === kahani.length - 2) {
                 setToggleMusic(true);
+              }
+              if (current === kahani.length - 1) {
+                // setToggleMusic(true);
                 openWhatsapp();
                 setCurrent(0);
               }

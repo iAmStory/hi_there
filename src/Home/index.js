@@ -6,12 +6,7 @@ function Home({ goto }) {
   const [play, setPlay] = useState(false);
 
   useEffect(() => {
-    // read hash from url
-    const hash = window.location.hash;
-    // hash value is in binary, convert it text
-    let text = atob(hash.replace("#", ""));
-    // convert text to uppercase
-    text = text.toUpperCase();
+    const text = 'ANAMIKA';
 
     // set document title to "Hi, text"
     document.title = `Hi, ${text}`;
@@ -31,7 +26,7 @@ function Home({ goto }) {
         height: "100vh",
         display: "flex",
         justifyContent: "center",
-        alignItems: "center",
+        // alignItems: "center",
       }}
       onClick={() => goto()}
     >

@@ -1,18 +1,23 @@
 const kahani = [
   "I made this for you ❤️",
-  "Searching for love feels like a one-way street",
-  "Lonely nights, where only one voice repeats.",
-  "They say it takes two, but where's the other side?",
-  "We're not so bad, whispers a voice inside.",
-
-  "Yearning for a partner, someone to share",
-  "Laughter and moments, a life beyond compare.",
-  "A touch of wonder, a life less mundane",
-  "Shared dreams and coffee, hand in hand.",
-
-  "Hugging worries goodbye, a future so bright",
-  "Is this too good to be true? Why not take a chance tonight?",
-  "Slide into my DMs, let's see where love takes flight."
+  "I just want to say..",
+  "hum chahe kahi bhi ho",
+  "but kabhi bhi",
+  "Ek hug chaiye ho? 🤗",
+  "toh I'm here ❤️",
+  "Rona aa raha ho.. 😢",
+  "toh I'm here ❤️",
+  "kuch baat ho.. 📞",
+  "toh I'm here ❤️",
+  "hasna ho.. 🤭",
+  "toh I'm here ❤️",
+  "Kuch ajeeb lag raha ho.. 😖",
+  "toh I'm here ❤️",
+  "Neend na aa rahi ho? 😴",
+  "toh I'm here ❤️",
+  "This is my promise 💌 that I'll be there for you",
+  "Always ❤️❤️",
+  "Lifetime tak ❤️❤️",
 ];
 
   export default kahani
